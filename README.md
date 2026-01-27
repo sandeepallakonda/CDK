@@ -1,7 +1,3 @@
-
----
-
-````md
 <p align="center">
   🚀 <b>AWS CDK EC2 – Complete Hands-On Guide</b> ⭐
 </p>
@@ -153,7 +149,7 @@ cdk destroy
 This is a **learning-focused repository**.
 Contributions, improvements, and suggestions are welcome!
 
-Steps:
+**Steps:**
 
 1. Fork the repo
 2. Create a feature branch
@@ -190,15 +186,17 @@ If this repository helped you:
 
 Happy Learning! 🚀
 
-```
+````
 
 ---
 
-### 🔥 If you want, I can:
-- Match **exact badge colors & layout** like the Kubernetes repo
-- Add **GIFs / architecture diagrams**
-- Optimize README for **recruiter visibility**
-- Create a **monorepo-style landing README**
+## ✅ Important Final Fixes You MUST Do
+1. Replace **`your-username`** with your actual GitHub username  
+2. Commit & push again:
+```bash
+git add README.md
+git commit -m "Fix README formatting for GitHub"
+git push
+````
 
-Just say **“improve it more”** and tell me how professional you want it (basic / advanced / showcase-level).
-```
+---
